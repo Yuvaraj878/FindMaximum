@@ -28,7 +28,7 @@ def max_marks(marks):
  large = max(marks)
  return large
  ```
-iii) ### To find the maximum marks without using builtin functions.
+ ### To find the maximum marks without using builtin functions.
 ```Python
 Program to the maximum marks without using builtin functions.
 Developed by:YUVARAJ.S
